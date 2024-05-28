@@ -49,7 +49,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Citation
 If you use this code in your research, please cite our paper:
 ```bibtex
-@article{your_paper,
+@article{enhanced_ecg_heart_age,
   title={Enhancing ECG-Based Heart Age: Impact of Acquisition Parameters and Generalization Strategies for Varying Signal Morphologies and Corruptions},
   author={Ansari et al.},
   journal={Frontiers in Cardiovascular Medicine},
