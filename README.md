@@ -51,10 +51,13 @@ If you use this code in your research, please cite our paper:
 ```bibtex
 @article{enhanced_ecg_heart_age,
   title={Enhancing ECG-Based Heart Age: Impact of Acquisition Parameters and Generalization Strategies for Varying Signal Morphologies and Corruptions},
-  author={Ansari et al.},
+  author={Ansari, Mohammed Yusuf and Qaraqe, Marwa and Righetti, Raffaella and SERPEDIN, ERCHIN and Qaraqe, Khalid},
   journal={Frontiers in Cardiovascular Medicine},
-  year={2024}
+  volume={11},
+  pages={1424585},
+  publisher={Frontiers}
 }
+
 ```
 
 ## Acknowledgments
